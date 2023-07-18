@@ -30,4 +30,5 @@ flutter:
       ios:
         pluginClass: FlutterNativeLogsPlugin
       windows:
-        pluginClass: FlutterNativeLogHandlerPlugin
+        dartPluginClass: FlutterNativeLogHandlerPlugin
+        pluginClass: FlutterNativeLogHandlerPluginCApi
