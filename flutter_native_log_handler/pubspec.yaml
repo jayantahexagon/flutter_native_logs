@@ -29,3 +29,5 @@ flutter:
         pluginClass: FlutterNativeLogsPlugin
       ios:
         pluginClass: FlutterNativeLogsPlugin
+      windows:
+        pluginClass: FlutterNativeLogHandlerPlugin
